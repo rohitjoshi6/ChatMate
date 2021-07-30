@@ -1,0 +1,22 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Node server for Chatmate application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitjoshi6/ChatMate.git"
+  },
+  "author": "Rohit Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitjoshi6/ChatMate/issues"
+  },
+  "homepage": "https://github.com/rohitjoshi6/ChatMate#readme",
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
+}

@@ -6,6 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+
+  "engines": {
+    "node": "14.15.4"
+  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rohitjoshi6/ChatMate.git"
